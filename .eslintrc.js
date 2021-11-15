@@ -4,7 +4,7 @@ module.exports = {
     node: true
   },
 
-  ignorePatterns: ["dist/*"],
+  // ignorePatterns: ["dist/*"],
 
   'extends': [
     'plugin:vue/essential',
